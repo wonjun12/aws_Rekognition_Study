@@ -1,0 +1,10 @@
+-- ppt 방안
+1. Amazon Rekognition이란 무엇인가
+2. Amazon Rekognition 설정 방법
+3. Amazon Rekognition 얼굴 인식
+    1) 얼굴 인식 경계선 보여주기
+    2) 얼굴 감정 여부
+4. Amazon Rekognition 얼굴 비교
+    1) 일치률
+    2) 비교 인식 경계선 보여주기
+    3) 예시로 일치률이 가장 높은 얼굴 경계선 보여주기
